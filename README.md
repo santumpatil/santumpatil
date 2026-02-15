@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @santumpatil
--🌱 I’m currently learning ... C, Python 
+-🌱 I’m currently learning ...  Python 
 
 <!---
 santumpatil/santumpatil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
