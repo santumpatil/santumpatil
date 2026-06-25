@@ -4,7 +4,7 @@
 
 - 🌱 Currently learning Full Stack Development
 - 💻 Working on Web Development Projects
-- 📫 Reach me: youremail@gmail.com
+- 📫 Reach me: santupatilspace@gmail.com
 - ⚡ Fun fact: I love coding and AI.
 
 
